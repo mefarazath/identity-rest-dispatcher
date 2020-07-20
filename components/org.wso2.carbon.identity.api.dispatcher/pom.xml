@@ -348,5 +348,9 @@
             <groupId>org.wso2.carbon.identity.server.api</groupId>
             <artifactId>org.wso2.identity.api.server.branding.preference.management.v1</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.wso2.carbon.identity.server.api</groupId>
+            <artifactId>org.wso2.identity.api.server.branding.preference.management.common</artifactId>
+        </dependency>
     </dependencies>
 </project>

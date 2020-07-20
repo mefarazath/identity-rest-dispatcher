@@ -459,6 +459,11 @@
                 <artifactId>org.wso2.identity.api.server.branding.preference.management.v1</artifactId>
                 <version>${identity.server.api.version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.wso2.carbon.identity.server.api</groupId>
+                <artifactId>org.wso2.identity.api.server.branding.preference.management.common</artifactId>
+                <version>${identity.server.api.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
